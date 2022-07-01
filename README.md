@@ -4,5 +4,5 @@ In this project, a basic smart contract were created and deployed. This is a sma
 
 Only dad can add a kid into the blockchain.
 Dad can deposit etherium into any account of the kids by the deposit function.
-Kids are able to see their balance but they can not withdraw until the release time.
+Kids are able to see their balances but they can not withdraw until the release time.
 Kids are able to withdraw after the release time
